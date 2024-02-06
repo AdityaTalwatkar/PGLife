@@ -5,7 +5,7 @@ PG Life Web Application Overview:
    - Tailored for enhanced user experience with personalized features.
 
 2. Web App URL:
-   - Hosted online at pglifeadityatalwatkar.wuaze.com
+   - Hosted online at http://pglifeadityatalwatkar.wuaze.com/
    - Fully responsive and operational on any device.
 
 3. Technology Stack:
